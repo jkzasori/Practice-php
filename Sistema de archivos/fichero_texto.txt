@@ -1,0 +1,2 @@
+Hola, soy un archivo de texto,
+¿qué tal estás?Soy un archivo de texto leído desde phpSoy un archivo de texto leído desde php
