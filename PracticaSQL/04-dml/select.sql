@@ -1,0 +1,8 @@
+# MOSTRAR TODOS LOS REGISTROS / FILAS DE UNA TABLA #
+SELECT email, nombre, apellido FROM usuario;
+
+# MOSTRAR TODOS LOS CAMPOS #
+SELECT * FROM usuarios;
+
+# OPERADORES ARITMETICOS #
+SELECT email, (id+7) AS 'OPERACIONS' FROM usuarios;
